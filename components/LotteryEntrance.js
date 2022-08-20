@@ -106,7 +106,6 @@ export default function LotteryEntrance() {
                     </p>
                     <p>Hay {numplayers} jugadores en la rifa</p>
                     <p>El último ganador fue {winner}</p>
-                    <p>El último ganador fue {winner}</p>
 
                 </div>
             ) : (
